@@ -2992,6 +2992,7 @@ Team Area CSS
 .single-team-box .image {
   position: relative;
   overflow: hidden;
+  border-radius: 50%;
 }
 
 .single-team-box .image img {
@@ -3088,15 +3089,15 @@ Team Area CSS
   font-weight: 500;
 }
 
-.single-team-box:hover {
+/* .single-team-box:hover {
   -webkit-transform: translateY(-5px);
           transform: translateY(-5px);
-}
+} */
 
-.single-team-box:hover .image img {
+/* .single-team-box:hover .image img {
   -webkit-transform: scale(1.2);
           transform: scale(1.2);
-}
+} */
 
 /* .single-team-box:hover .image .social {
   opacity: 1;
