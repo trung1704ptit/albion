@@ -1280,6 +1280,9 @@ Main Banner Area CSS
 .main-banner-content {
     margin-top: -160px;
     max-width: 720px;
+    padding: 30px;
+    background: rgba(0,0,0,.5);
+    border-radius: 20px;
 
     h1 {
         color: $white-color;
