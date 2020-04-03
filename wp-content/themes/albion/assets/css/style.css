@@ -3098,11 +3098,11 @@ Team Area CSS
           transform: scale(1.2);
 }
 
-.single-team-box:hover .image .social {
+/* .single-team-box:hover .image .social {
   opacity: 1;
   margin-top: 0;
   visibility: visible;
-}
+} */
 
 .single-team-box:hover .content h3 {
   color: #ffffff;
