@@ -1771,7 +1771,11 @@ About Area CSS
 .about-image {
   position: relative;
   padding-bottom: 100px;
+}
+
+.about-image img {
   border-radius: 7px;
+
 }
 
 .about-image img:nth-child(2) {
